@@ -4,9 +4,9 @@
 
 # CFFTP ?
 
-Every year @BalCC0n conference bring 30 to 40 people coming to share their knowledge. You can share as well, share your files, movies, books, code .... We will run CFFTP, call for files or Call For FTP servers, torrents etc. Send your h5ai IP's/URL's to @BalCC0n twitter account (0 = number) or contact us https://2k18.balccon.org/index.php?title=Contact
+Every year @BalCC0n conference bring 30 to 40 people coming to share their knowledge. You can share as well, share your files, movies, books, code .... We will run CFFTP, call for files or Call For FTP servers, torrents etc. Send your IP's/URL's to @BalCC0n twitter account (0 = number) or contact us https://2k18.balccon.org/index.php?title=Contact
 
-This image allows you to run h5ai in a Docker container.
+If you want easy way to share your files, here you can find information about h5ai app, and how to run simple share using Docker.
 
 # h5ai Docker image [BalCCon2k18 CFFTP]
 
