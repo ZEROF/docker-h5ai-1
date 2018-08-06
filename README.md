@@ -1,5 +1,5 @@
 <span style="display:block;text-align:center">
-![alt text](https://2k18.balccon.org/index.php?title=File:BalCCon2k18_1.png)
+![alt text](https://2k18.balccon.org/images/1/16/BalCCon2k18_1.png)
 </span>
 
 # CFFTP ?
