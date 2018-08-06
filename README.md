@@ -1,3 +1,7 @@
+<span style="display:block;text-align:center">
+![alt text](https://2k18.balccon.org/index.php?title=File:BalCCon2k18_1.png)
+</span>
+
 # CFFTP ?
 
 Every year @BalCC0n conference bring 30 to 40 people coming to share their knowledge. You can share as well, share your files, movies, books, code .... We will run CFFTP, call for files or Call For FTP servers, torrents etc. Send your h5ai IP's/URL's to @BalCC0n twitter account (0 = number) or contact us https://2k18.balccon.org/index.php?title=Contact
