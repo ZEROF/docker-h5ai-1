@@ -37,7 +37,7 @@ Just create the directories you want to share and make sure they are accessible.
 On local machine make directory you want to share:
 
 ```
-make /home/user/share
+mkdir /home/user/share
 ```
 
 Then run:
